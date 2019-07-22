@@ -1,0 +1,8 @@
+c:\users\dhirendra\documents\visual studio 2015\Projects\CodingTask\Client\bin\Debug\Client.exe.config
+c:\users\dhirendra\documents\visual studio 2015\Projects\CodingTask\Client\bin\Debug\Client.exe
+c:\users\dhirendra\documents\visual studio 2015\Projects\CodingTask\Client\bin\Debug\Client.pdb
+c:\users\dhirendra\documents\visual studio 2015\Projects\CodingTask\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\dhirendra\documents\visual studio 2015\Projects\CodingTask\Client\obj\Debug\Client.exe
+c:\users\dhirendra\documents\visual studio 2015\Projects\CodingTask\Client\obj\Debug\Client.pdb
+c:\users\dhirendra\documents\visual studio 2015\Projects\CodingTask\Client\bin\Debug\Service.dll
+c:\users\dhirendra\documents\visual studio 2015\Projects\CodingTask\Client\bin\Debug\Service.pdb
